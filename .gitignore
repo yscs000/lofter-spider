@@ -1,8 +1,0 @@
-.idea/
-.env/
-
-lofter/articles/
-
-*.pyc
-
-lofter/log/
